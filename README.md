@@ -21,7 +21,7 @@
     : Sleep stages & disorders [{Classification of discrete sleep stages}, {Classification of discrete disorders}]
 
     food and nutrition
-    : Food intake [{Classification of discrete stages}]
+    : Food intake [{Weight?}]
 
 ### 3. Which algorithm/method for get the data and performance? ==> Algorithm | Performance
     detailed in each sensor in each task // read from the table
