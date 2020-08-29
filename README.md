@@ -10,7 +10,7 @@
     Each tasks devided by types of sensor 
     : Biomedical Sensor, Kinematic Sensor, Kinetic Sensor, Radar-based Sensor, Other Sensor
 
-### 2. Which data that sensor can measure? ==> Objects | features
+### 2. Which data that sensor can measure? ==> Objectives | features
     affective computing
     : Emotion [{Classification of discrete emotion}, {Regression by levels}]
 
